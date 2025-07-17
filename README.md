@@ -21,5 +21,3 @@ Defined in `schema/create_stock_prices.sql`
 
 Each SQL query is stored in `queries`.
 
-## 📸 Preview
-See `/screenshots` for query results.
