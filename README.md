@@ -18,6 +18,8 @@ Defined in `schema/create_stock_prices.sql`
 - ✅ Top 5 biggest moves by absolute change
 - ✅ Max volume day
 - ✅ Average volume by weekday
+- ✅ Flag days where the opening price is significantly different from the previous day's closing price (e.g., > 2% gap up or down)
+- ✅ Compute a 3-Day Moving Average of Close Prices
 
 Each SQL query is stored in `queries`.
 
